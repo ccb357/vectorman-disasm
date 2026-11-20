@@ -1,5 +1,5 @@
 # vectorman-disasm
-A working progress of a Vectorman (1995) dissassembly
+A work-in progress of a Vectorman (1995) dissassembly
 
 lorem ipsum :D
 
